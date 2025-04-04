@@ -1,5 +1,5 @@
 # Gitentregable2
 Grupo:
-Alex Sans
+Alex Sanz
 Tania Roses
 Esteban Hernandez
